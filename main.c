@@ -9,3 +9,6 @@ void f6(){}
 void f7(){}
 void f8(){}
 void f9(){}
+void f50(void){}
+void f51(void){}
+
