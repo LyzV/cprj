@@ -6,3 +6,4 @@ void f5(){}//branch i2. user1.
 void f6(){}
 void f7(){}
 void f8(){}
+void f9(){}
