@@ -10,3 +10,4 @@ void f103(){}
 void f104(){}
 
 void f105(){}
+void f106(){}
